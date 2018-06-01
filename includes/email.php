@@ -2,11 +2,11 @@
 //include "db.php";
 //    global $headers;
     $subject="Test Email";
-    $to="hmuthreja4@gmail.com";
-    $from="hmuthreja4@gmail.com";
+    $to="";
+    $from="";
     $host="ssl://smtp.gmail.com";
-    $username="hmuthreja4@gmail.com";
-    $password="happychiya2771995";
+    $username="";
+    $password="";
     $port = "465";
     $crlf="\n";
 
